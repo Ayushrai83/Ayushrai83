@@ -1,4 +1,4 @@
-
+<img align="centre" alt="coding" width="1000" src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
 <h3 align="center">A passionate MERN stack developer, software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
