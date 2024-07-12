@@ -1,7 +1,7 @@
-<img align="centre" alt="coding" width="1000" src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
+<img align="centre" alt="coding" width="1000" src="https://www.digitaledgetech.in/images/New_Banner_02.gif">
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
 <h3 align="center">A passionate MERN stack developer, software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b463b135e1c1e02be49b5a821922be8caa5c2ca2274663c1dd30227872f9d59d/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966">
 
 - 🌱 I’m currently learning **MERN Stack**
 
